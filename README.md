@@ -1,31 +1,30 @@
-# 👋 Zdravo, ja sam Nurudin
+# 👋 Hello, I'm Nurudin
 
-Samouki programer koji voli razumjeti stvari **od nule**.
+A self-taught programmer who loves understanding things **from scratch**.
 
-🔍 Moji tehnički interesi:
+🔍 My technical interests:
 - 🛠️ Reverse Engineering
 - 🔐 Security Testing
 - 🧠 Software Architecture
-- ⚙️ CLI alati
-- 🌐 Web Backend (učim trenutno)
+- ⚙️ CLI tools
+- 🌐 Web Backend (currently learning)
 
-📌 Trenutno ne radim na aktivnim projektima, ali istražujem i učim.
+📌 Currently not working on active projects, but exploring and learning.
 
-🎯 Tražim ljude za male, ali **smislene projekte** — ako voliš graditi stvari iz osnova i dijeliti znanje, slobodno se javi.
+🎯 Looking for people for small but **meaningful projects** — if you love building things from the ground up and sharing knowledge, feel free to reach out.
 
-📫 Kontakt: **nurudinimsirovic@yahoo.com**
+📫 Contact: **nurudinimsirovic@yahoo.com**
 
 ---
 
-## 🧰 Tehnologije s kojima najviše radim:
+## 🧰 Technologies I work with most:
 `Go` · `PHP` · `TypeScript` · `Node.js` · `C# (.NET)` · `MySQL` · `Redis` · `Linux` · `PowerShell` · `Docker/Podman`
 
-## 🧠 Trenutno učim:
-`Web backend` · `Sistemski dizajn` · `Sigurnost aplikacija` · `Networking fundamentals`
+## 🧠 Currently learning:
+`Web backend` · `System design` · `Application security` · `Networking fundamentals`
 
 ---
 
-## 🤝 Zajednica i saradnja
+## 🤝 Community and collaboration
 
-Otvoren sam za saradnju na malim tehničkim projektima, CLI alatima, reverse engineering eksperimentima i svemu gdje se može **razumjeti sistem, a ne samo koristiti ga**.
-
+I'm open to collaboration on small technical projects, CLI tools, reverse engineering experiments, and anything where you can **understand the system, not just use it**.
